@@ -1,2 +1,10 @@
 # spark-databricks-startup-app
-startup code for Spark on Databricks 
+startup code for running spark jobs on Databricks clusters 
+ 
+
+## Build
+
+```shell
+mvn clean install
+```
+
